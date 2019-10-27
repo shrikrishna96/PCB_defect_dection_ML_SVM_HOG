@@ -1,0 +1,2 @@
+# PCB_defect_dection_ML_SVM_HOG
+PCB_defect_dection_ML_SVM_HOG using matlab by image processing
